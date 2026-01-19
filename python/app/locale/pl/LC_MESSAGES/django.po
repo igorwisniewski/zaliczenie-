@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgid "App"
+msgstr "Aplikacja"
+
+msgid "Auction"
+msgstr "Aukcja"
+
+msgid "Auctions"
+msgstr "Aukcje"
+
+msgid "Bid"
+msgstr "Oferta"
+
+msgid "Bids"
+msgstr "Oferty"
+
+msgid "Section"
+msgstr "Sekcja"
+
+msgid "Sections"
+msgstr "Sekcje"
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Artist"
+msgstr "Artysta"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Medium"
+msgstr "Technika"
+
+msgid "Dimensions"
+msgstr "Wymiary"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Image"
+msgstr "Zdjęcie"
+
+msgid "Current bid"
+msgstr "Aktualna oferta"
+
+msgid "End date"
+msgstr "Data zakończenia"
+
+
+msgid "Amount"
+msgstr "Kwota"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Title 2"
+msgstr "Tytuł 2"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Element 1"
+msgstr "Element 1"
+
+msgid "Element 2"
+msgstr "Element 2"
+
+msgid "Element 3"
+msgstr "Element 3"
+
+msgid "Element 4"
+msgstr "Element 4"
+
+msgid "MyUserManager"
+msgstr "Menedżer Użytkownika"
+
+msgid "MyUser"
+msgstr "Użytkownik"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "Is active"
+msgstr "Aktywny"
+
+msgid "Is staff"
+msgstr "Członek personelu"
+
+msgid "Users must have an email address"
+msgstr "Użytkownicy muszą mieć adres email"

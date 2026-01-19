@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgid "Accounts"
+msgstr "Konta"
+
+msgid "MyUserManager"
+msgstr "Menedżer Użytkownika"
+
+msgid "MyUser"
+msgstr "Użytkownik"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "Is active"
+msgstr "Aktywny"
+
+msgid "Is staff"
+msgstr "Członek personelu"
+
+msgid "Is verified"
+msgstr "Zweryfikowany"
+
+msgid "Users must have an email address"
+msgstr "Użytkownicy muszą mieć adres email"
